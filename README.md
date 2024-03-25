@@ -1,5 +1,6 @@
 # 👨‍💼 BIO :
 "Resourceful procurement ace turned data aficionado, armed with a full deck of data science skills and certifications. Ready to fuse strategic sourcing savvy with cutting-edge analytics to unlock untapped potentials in the data universe."
+
 💻I’m currently working as a procurement associate in VWR part of AVANTOR private limited<br>🎯seeking career shift : data science bound  📊<br>💡Currently elevating my python and data science skills with GUVI IIT MADRAS <br>🏆Former National Volley ball player <br>📩 Mail me at dharani8890@gmail.com<br><br>
 
 
